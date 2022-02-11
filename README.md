@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mike
 - 👀 I’m interested in all things tech, but mostly backend technologies
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning React
 - 📫 How to reach me https://www.linkedin.com/in/michael-mukiri-3a37061bb/
 
 <!---
